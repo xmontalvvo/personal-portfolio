@@ -29,8 +29,6 @@ INFO:
 SOCIAL:
   - icon: "logo-facebook"
     url: "https://facebook.com/"
-  - icon: "logo-instagram"
-    url: "https://instagram.com/"
   - icon: "logo-linkedin"
     url: "https://www.linkedin.com/"
   - icon: "logo-github"

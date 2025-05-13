@@ -9,24 +9,24 @@ PRESENTATION:
 
 DOING:
   enabled: true
-  label: "What I'm doing"
+  label: "Lo que hago"
   items:
-    - title: "Mobile Apps"
-      icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
-    - title: "Scripting"
+    - title: "Desarrollo BackEnd / FrontEnd"
       icon: "config/assets/icons/code.svg"
-      description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
-      icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
+      description: "Código escalable y de calidad a la medida."
     - title: "Web Development"
       icon: "config/assets/icons/laptop-code.svg"
       description: "High-quality development of sites at the professional level."
+    - title: "Mobile Apps"
+      icon: "config/assets/icons/mobile.svg"
+      description: "Professional development of applications for iOS and Android."
+    - title: "Diseño UI/UX"
+      icon: "config/assets/icons/compass.svg"
+      description: "Intuitive and visually appealing user interfaces and user experiences."
 
 SKILLS:
   enabled: true
-  label: "Soft Skills"
+  label: "Habilidades Sociales"
   items:
     - title: "Fast Learner"
       icon: "config/assets/icons/bolt.svg"
@@ -43,29 +43,15 @@ SKILLS:
 
 TECHNOLOGIES:
   enabled: true
-  label: "Tech Experience"
+  label: "Experiencia Técnica"
   items:
-    - title: "Python"
-      icon: "config/assets/icons/python.svg"
-    - title: "Flutter"
-      icon: "config/assets/icons/flutter.svg"
     - title: "Git"
       icon: "config/assets/icons/git.svg"
     - title: "Figma"
       icon: "config/assets/icons/figma.svg"
-    - title: "Firebase"
-      icon: "config/assets/icons/firebase.svg"
-    - title: "Pandas"
-      icon: "config/assets/icons/pandas.svg"
     - title: "MongoDB"
       icon: "config/assets/icons/mongodb.svg"
-    - title: "Dart"
-      icon: "config/assets/icons/dart.svg"
     - title: "HTML"
       icon: "config/assets/icons/html.svg"
-    - title: "AI"
-      icon: "config/assets/icons/ai.svg"
-    - title: "Jupyter"
-      icon: "config/assets/icons/jupyter.svg"
     - title: "Linux"
       icon: "config/assets/icons/linux.svg"
